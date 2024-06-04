@@ -22,7 +22,7 @@ Before running the scripts, ensure you have the following installed:
 
 ## Database Setup
 
-First, set up the PostgreSQL database and tables using the provided SQL script - world_all_cup.sql . This script will create the `worldcup` database along with the necessary tables and constraints.
+First, set up the PostgreSQL database and tables using the provided SQL script - `world_all_cup.sql` . This script will create the `worldcup` database along with the necessary tables and constraints.
 
 ### Creating the Database
 
