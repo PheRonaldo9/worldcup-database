@@ -80,7 +80,7 @@ The script uses the `PSQL` variable to execute SQL queries. It assumes the datab
 
 Use the provided Bash script to query specific information from the `worldcup` database.
 
-### Bash Script: `student_info.sh`
+### Bash Script: `queries.sh`
 
 The Bash script queries the `worldcup` database for specific information.
 
