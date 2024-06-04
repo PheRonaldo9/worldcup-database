@@ -41,7 +41,7 @@ This script will:
 
 ## Importing Data
 
-Use the provided Bash script - insert_data bash script to import data from the CSV file into the PostgreSQL database.
+Use the provided Bash script - `insert_data bash script` to import data from the CSV file into the PostgreSQL database.
 
 ### Bash Script: `insert_data.sh`
 
@@ -78,7 +78,7 @@ The script uses the `PSQL` variable to execute SQL queries. It assumes the datab
 
 ## Querying Data
 
-Use the provided Bash script to query specific information from the `worldcup` database.
+Use the provided Bash script - `queries.sh` to query specific information from the `worldcup` database.
 
 ### Bash Script: `queries.sh`
 
@@ -96,8 +96,7 @@ The Bash script queries the `worldcup` database for specific information.
 
 ### Script Details
 
-The script performs the following operations:
-
+The script queries the:-
 1. Total Goals in Winning Games: Retrieves the total number of goals scored by winning teams.
 2. Total Goals in All Games: Retrieves the total number of goals scored in all games.
 3. Average Goals in Winning Games: Calculates the average number of goals scored by winning teams.
